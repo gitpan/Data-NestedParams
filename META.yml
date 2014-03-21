@@ -4,6 +4,7 @@ author:
   - 'Tokuhiro Matsuno <tokuhirom@gmail.com>'
 build_requires:
   Test::Base::Less: '0.12'
+  Test::Deep: '0'
   Test::More: '0.98'
 configure_requires:
   CPAN::Meta: '0'
@@ -29,11 +30,11 @@ no_index:
 provides:
   Data::NestedParams:
     file: lib/Data/NestedParams.pm
-    version: '0.04'
+    version: '0.05'
 requires:
   perl: '5.008005'
 resources:
   bugtracker: https://github.com/tokuhirom/Data-NestedParams/issues
   homepage: https://github.com/tokuhirom/Data-NestedParams
   repository: git://github.com/tokuhirom/Data-NestedParams.git
-version: '0.04'
+version: '0.05'

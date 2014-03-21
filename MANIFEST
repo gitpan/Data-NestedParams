@@ -9,5 +9,6 @@ minil.toml
 t/00_compile.t
 t/01_simple.t
 t/02_rack.t
+t/03_collapse.t
 META.yml
 MANIFEST
