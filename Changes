@@ -1,5 +1,10 @@
 Revision history for Perl extension Data-NestedParams
 
+0.06 2014-03-26T11:18:51Z
+
+    - Allow _ and - in hash key.
+      (tokuhirom)
+
 0.05 2014-03-21T03:03:24Z
 
     - Added collapse_nested_query
