@@ -1,5 +1,10 @@
 Revision history for Perl extension Data-NestedParams
 
+0.07 2014-07-27T23:09:34Z
+
+    - Allow numeric characters in hash key.
+      (tokuhirom)
+
 0.06 2014-03-26T11:18:51Z
 
     - Allow _ and - in hash key.
